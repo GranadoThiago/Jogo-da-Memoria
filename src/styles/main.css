@@ -4,6 +4,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background: #fc1e8a;
+    user-select: none;
 }
 
 .conteiner{
@@ -51,7 +52,7 @@ h2{
     transform-style: preserve-3d;
     perspective: 500px;
 }
-url(https://web.dio.me/lab/criando-um-jogo-da-memoria-com-emojis/learning/a9e81392-94de-47d1-8a65-9fb225ce5018?back%3D%2Ftrack%2Fcoding-future-front-end-do-zero)
+
 .item{
     position: relative;
     width: 100px;
